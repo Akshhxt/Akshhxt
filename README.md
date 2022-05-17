@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **100 Days Python Bootcamp**
 
-- 🌱 I’m currently learning **Selenium, Flask, Django, Numpy, Pandas, Matplutlib, Seaborn.**
+- 🌱 I’m currently learning **Selenium, Flask, Django, Numpy, Pandas, Matplotlib, Seaborn.**
 
 - 🤝 I’m looking for help with [Python projects](Flask)
 
