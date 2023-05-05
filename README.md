@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning**
 
-- 🌱 I’m currently learning **Selenium, Flask, Django, Numpy, Pandas, Matplotlib, Seaborn, JavaScript, CSS.**
+- 🌱 I’m currently learning **Selenium, Flask, Django, Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn.**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
