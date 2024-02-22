@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **Selenium, Flask, Django, Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn.**
 
-- 👯 I’m looking to collaborate on **Python Projects**
-
-- 🤝 I’m looking for help with **Some Amazing python projects**
+- 👯 I’m looking to collaborate on **AI and Deep Learning Projects**
 
 - 📫 How to reach me **akshatprasad20@gmail.com**
 
