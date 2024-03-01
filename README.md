@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshhxt" target="blank"><img src="https://img.shields.io/twitter/follow/akshhxt?logo=twitter&style=for-the-badge" alt="akshhxt" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning and Deep Learning**
+- 🔭 I’m currently working on **Artificial Intelligence, Machine Learning and Deep Learning**
 
 - 🌱 I’m currently learning **Selenium, Flask, Django, Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn.**
 
